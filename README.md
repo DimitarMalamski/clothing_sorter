@@ -10,7 +10,7 @@ This notebook is intentionally designed as a foundational starting point and doe
 ## 🎯 Learning alignments
 The following aspects of machine learning are part of this example:
 
-- a
+- Using transfer learning rather than building neural network layers yourself.
 - b
 - c
 - d
@@ -20,7 +20,7 @@ The following aspects of machine learning are part of this example:
 The following is a list of considerations for improvement or for your own project.
 
 - Note that the test is a bit unfair because we do not ensure that the test set has an equal number of images per class.
-- b
+- Given that this notebook uses transfer learning, it makes sense to freeze all layers at first. However, unfreezing them probably gives better outcomes. Can you measure the difference?
 - c
 
 ## ⭐ Citation & Star
