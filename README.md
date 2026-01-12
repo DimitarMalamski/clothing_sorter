@@ -19,7 +19,7 @@ The following aspects of machine learning are part of this example:
 ## 🤔 Considerations for improvement
 The following is a list of considerations for improvement or for your own project.
 
-- a
+- Note that the test is a bit unfair because we do not ensure that the test set has an equal number of images per class.
 - b
 - c
 
